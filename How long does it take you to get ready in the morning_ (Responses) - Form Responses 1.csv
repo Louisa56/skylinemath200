@@ -1,6 +1,5 @@
 ,,,,
-Timestamp,What is your sex?,What hour do you wake up in the morning?,How long (in minutes) do you spend in the shower?,"How long (in minutes) does it take for you to get ready in the morning before leaving your house?
-Consider: shower, makeup, getting dressed, hair, etc."
+timestamp,sex,wake_up_time,shower_time,ready_time
 10/29/2023 22:33:44,Male,9:00 - 9:59,37.5,30
 10/29/2023 22:35:14,Male,7:00 - 7:59,10,3
 10/29/2023 23:20:36,Male,6:00 - 6:59,1,60
